@@ -1,0 +1,2 @@
+Database username - proj1db
+Database password - harshal
