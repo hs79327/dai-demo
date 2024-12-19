@@ -10,5 +10,7 @@ Original file is located at
 n1 = int(input("Enter the first number : "))
 n2 = int(input("Enter the second number : "))
 
-result = n1+n2
-print(f"The sum of {n1} and {n2} is {result}")
+sum = n1+n2
+mul = n1*n2
+print(f"The sum of {n1} and {n2} is {sum}")
+print(f"The multiplication of {n1} and {n2} is {mul}")
